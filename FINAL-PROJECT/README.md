@@ -1,20 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Build your own game!
-
-## Content
-- [Project Description](#project-description)
-- [Games](#games)
-- [Project Goals](#project-goals)
-- [Requirements & Deliverables](#requirements-&-deliverables)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-
-## Project Description
-In this project, you will create your first software!
-You are tasked with creating a **game** that interacts with the user, using the functions and basic python resources you have learned during the week. Your game will be able to take an input from the user and provide an output. 
-
-You will also present your game to the class. 
+# Machine Learning Wildfires in California Models
 
 ## Games
 You must come to an agreement with your colleagues so that each of you develops one of the following games:
