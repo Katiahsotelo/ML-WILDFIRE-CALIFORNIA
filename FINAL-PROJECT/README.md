@@ -10,4 +10,18 @@ I selected the most important 46 features from a total of 397 to create predicti
 
 ## Variables used
 
+"Densidad del dosel 
+Altura  base del dosel 
+Cobertura del dosel Altura del dosel 
+Elevación de la vegetación
+Altura de la vegetación
+Tipo de vegetación "	"2012,2014,2016"
+"Elevación 
+Altura de la vegetación incendiada
+Tipo de vegetación  incendiada
+Inclinación "	2016
+"Cantidad de incendios por polígono diarios 
+Potencia radiativa del incendio 
+Cantidad de polígonos vecinos incendiados diario"	2012-2018
+
 
