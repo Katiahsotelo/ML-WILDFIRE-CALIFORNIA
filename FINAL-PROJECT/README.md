@@ -10,7 +10,7 @@ I selected the most important 46 features from a total of 397 to create predicti
 
 ## Variables used
 
-# Years 2012, 2014 and 2016
+ Years 2012, 2014 and 2016
 
 - Canopy density 
 - Canopy base height 
@@ -21,7 +21,7 @@ I selected the most important 46 features from a total of 397 to create predicti
 - Type of vegetation
 
 
-# Year 2016 
+ Year 2016 
 
 - Polygon elevation 
 - Height of burned vegetation
@@ -29,7 +29,7 @@ I selected the most important 46 features from a total of 397 to create predicti
 - Inclination of the polygon
 
 
-# Year 2012 to 2018
+ Year 2012 to 2018
 
 - Number of daily wildfires per polygon 
 - Radiative power of the fire
