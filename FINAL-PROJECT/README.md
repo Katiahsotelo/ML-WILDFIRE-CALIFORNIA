@@ -38,7 +38,7 @@ I selected the most important 46 features from a total of 397 to create predicti
 
 ## Link to the presentation 
 
-https://www.canva.com/design/DAFOTE5JLDY/uuiVnSriSAw8fr6APXyGrw/edit?utm_content=DAFOTE5JLDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFOTE5JLDY/uuiVnSriSAw8fr6APXyGrw/view?utm_content=DAFOTE5JLDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
